@@ -39,9 +39,3 @@ Main references used:
 - John C. Hull – Introduction to Futures and Options Markets  
 - Steven Shreve – Stochastic Calculus for Finance  
 - Paul Glasserman – Monte Carlo Methods in Financial Engineering  
-
-## Disclaimer
-
-This repository is for educational and research purposes only.  
-It is not intended for trading or investment advice.
-EOF
