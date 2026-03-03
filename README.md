@@ -20,12 +20,8 @@ The main goal is to build practical intuition by implementing the models from sc
 Each folder corresponds to a specific topic or chapter, for example:
 
 01_derivatives_basics/  
-02_forwards_futures/  
-03_options_vanilla/  
-04_binomial_model/  
-05_black_scholes/  
-06_greeks/  
-07_volatility/  
+02_black_scholes/  
+
 
 Inside each folder you will find:
 - Python implementations
